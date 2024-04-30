@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430855584423",
+    "firebase_url": "https://srb-1aa0d.firebaseio.com",
+    "project_id": "srb-1aa0d",
+    "storage_bucket": "srb-1aa0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430855584423:android:2d07e1313ae7d24b013982",
+        "android_client_info": {
+          "package_name": "mymed.itionmu.sic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430855584423-4o28ahjqe938p0gs806d68uh8s22v711.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mymed.itionmu.sic",
+            "certificate_hash": "31be1112caee72da69a71f6e0921b4218d010c54"
+          }
+        },
+        {
+          "client_id": "430855584423-b4mst5l1lrtdvfu9b37lcsrr4mt41kug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWs8moMpQlvr5Tzb6EREVZIQjMITwSuJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430855584423-b4mst5l1lrtdvfu9b37lcsrr4mt41kug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
